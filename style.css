@@ -1,0 +1,31 @@
+.body{
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+.logo{
+  border-radius: 40px;
+}
+.description{
+  width: 400px;
+  height: 400px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.mrdhanu{
+  width: 400px;
+  height: 400px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  
+}
+.navbar{
+  position: fixed;
+  z-index: 10;
+  width: 100%;
+  height: 90px;
+}
